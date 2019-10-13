@@ -2,7 +2,7 @@
 Python simple bitforex exchange requests library
 
 Dependencies: 
-requests (1.22)
+requests
 
 ### Generic Request
 ```python
