@@ -20,7 +20,7 @@ Exchange()\
 ```
 
 ### Request pieces
-Using BitForex example (https://github.com/bitforexapi/API_Doc_en/wiki/API-Call-Description)
+[Using BitForex example] (https://github.com/bitforexapi/API_Doc_en/wiki/API-Call-Description "API Example")
 ```python
 Exchange(log_level=logging.DEBUG)\
 .with_keys(access_key='fd91cd9ba2cc78fed6bb40e0bcff29ba',
